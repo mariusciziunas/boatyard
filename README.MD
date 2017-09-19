@@ -1,6 +1,6 @@
 ## Dijkstra's shortest path algorithm
 
-Application has been developed as unattended test for a job interview. It solves the very specific tasks here. One of the tasks is Dijkstra's shortest path algorithm implementation, which is worth sharing
+Application has been developed as an unattended test for a job interview. It solves the very specific tasks here. One of the tasks is Dijkstra's shortest path algorithm implementation, which is worth sharing.
 
 The goal is to calculate distances and routes count of Venice suburbs. Input data is a Venice map which is provided in a file 'venice.txt'.
 Valid data in the input file should be format of: [[suburbName][SuburbName][distanceBetween] ]. For example: AB7 BF1
@@ -14,4 +14,4 @@ build.cmd - builds the application to /target/ directory
 run.cmd - runs the jar
 test.cmd - runs junit tests
 
-have a good time :)
+Have a good time :)
